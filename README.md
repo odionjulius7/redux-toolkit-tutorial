@@ -1,6 +1,7 @@
 # Redux Toolkit
 
-## Just how to usse Redux Toolkit and fetching data from API with CreateAsyncThunk
+## How to use Redux Toolkit and fetching data from API with CreateAsyncThunk
+## And use ThunkAPI and extra opton to pass paremeters in axios
 
 #### React Course
 
